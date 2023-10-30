@@ -34,7 +34,7 @@
 - 避免长时间保持一种姿势。
 - 如严重请及时就医。
 
-点击查看：[《颈椎诊治与康复指南》](https://www.zhangningle.top/RehabilitationGuide/%E9%A2%88%E6%A4%8E%E7%97%85%E5%BA%B7%E5%A4%8D%E6%8C%87%E5%8D%97/%E9%A2%88%E6%A4%8E%E5%BA%B7%E5%A4%8D%E6%8C%87%E5%8D%97.pdf)
+点击查看：[《颈椎诊治与康复指南》](https://www.zhangningle.top/RehabilitationGuide/颈椎病康复指南/颈椎诊治与康复指南.pdf)
 
 ## 腰间盘突出康复指南
 
