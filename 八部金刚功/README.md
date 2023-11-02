@@ -16,6 +16,6 @@
 
 请注意，八部金刚功作为一种健身功法，对于颈椎病和腰间盘突出等问题的疗效可能因人而异。如果您有相关健康问题，建议在专业医生的指导下进行适当的锻炼和治疗。
 
-- 点击下载 [八部金刚功-张至顺](https://github.com/AnsonZnl/RehabilitationGuide/raw/main/八部金刚功/八部金刚功-张至顺.mp4)
+- 点击下载 [八部金刚功-张至顺](https://github.com/AnsonZnl/RehabilitationGuide/raw/main/八部金刚功/八部金刚功_张至顺.mp4)
 
 - 在线观看 [八部金刚功-哔哩哔哩](https://search.bilibili.com/all?keyword=%E5%85%AB%E9%83%A8%E9%87%91%E5%88%9A%E5%8A%9F)
