@@ -81,6 +81,17 @@
 
 在线查看：[《每日一动，远离疼痛：腰椎间盘突出科学康复指南》](https://ansonznl.github.io/RehabilitationGuide/腰间盘突出康复指南/每日一动，远离疼痛：腰椎间盘突出科学康复指南_罗炜樑.pdf)
 
+## 康复经验分享
+
+- [不要看骨科，去看康复医学科。](https://github.com/AnsonZnl/RehabilitationGuide/issues/2)
+- [个人分享](https://github.com/AnsonZnl/RehabilitationGuide/issues/5)
+
+## 声明
+
+因大家的情况各有不同，康复经验仅作用于参考。如果您的病情比较复杂，具体治疗方案还请咨询相关专业的医生。
+
+如果您有和我类似的情况或者交流康复经验，欢迎 [New issues](https://github.com/AnsonZnl/RehabilitationGuide/issues/new)。
+
 ## 贡献
 
-资料都是由我收集整理的，求个 Star，支持一下。如果您有好的资料，欢迎提交 PR。
+资料都是由我收集整理的，求个 Star，支持一下。如果您有好的资料或者康复经验，欢迎提交 PR。
