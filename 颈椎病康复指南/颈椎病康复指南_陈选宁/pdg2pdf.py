@@ -39,5 +39,5 @@ def convert_to_jpg_and_merge_to_pdf(folder_path):
         if file.endswith('.jpg') or (file.endswith('.pdf') and file != "output.pdf"):
             os.remove(os.path.join(folder_path, file))
 
-# 使用示例
-convert_to_jpg_and_merge_to_pdf('/Users/lxz/Desktop/RehabilitationGuide/颈椎病康复指南/实用颈椎病康复指南')
+# 使用示例，将 type/your/path 替换为你的文件夹路径
+convert_to_jpg_and_merge_to_pdf('type/your/path')
