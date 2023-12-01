@@ -94,6 +94,8 @@
 
 如果您有和我类似的情况或者交流康复经验，欢迎 [New issues](https://github.com/AnsonZnl/RehabilitationGuide/issues/new)。
 
-## 贡献
+**贡献列表**
 
-资料都是由我收集整理的，求个 Star，支持一下。如果您有好的资料或者康复经验，欢迎提交 PR。
+- [linxz-coder](https://github.com/linxz-coder)
+
+资料收集整理不易，求个 Star，支持一下。如果您有好的资料或者康复经验，欢迎提交 PR。
