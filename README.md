@@ -94,7 +94,7 @@
 
 如果您有和我类似的情况或者交流康复经验，欢迎 [New issues](https://github.com/AnsonZnl/RehabilitationGuide/issues/new)。
 
-**贡献列表**
+## 贡献列表
 
 - [linxz-coder](https://github.com/linxz-coder)
 
